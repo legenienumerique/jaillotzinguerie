@@ -633,3 +633,4 @@ em{color:var(--blue)}
 .tile.lg .in{background:#22272b;display:grid;place-items:center}
 .tile.lg .in img{width:78%;height:auto;object-fit:contain}
 .seals .q{height:64px;width:auto;background:#fff;border-radius:12px;padding:6px 10px;filter:none}
+.tile.lg,.tile.lg .fl{background:#22272b!important}

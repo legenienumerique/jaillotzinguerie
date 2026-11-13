@@ -6,7 +6,7 @@ import sys
 OUT = sys.argv[1] if len(sys.argv) > 1 else "."
 A = 'assets/'
 PH = A + 'ph/'
-V = 1  # cache : incrémenter à chaque changement de CSS ou JS
+V = 2  # cache : incrémenter à chaque changement de CSS ou JS
 TEL, TELH = '06 27 04 80 08', 'tel:0627048008'
 TEL2, TEL2H = '04 74 24 34 93', 'tel:0474243493'
 ADR = ('57 chemin de Paulot', '01400 Condeissiat')
